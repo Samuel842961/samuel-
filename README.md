@@ -1,1 +1,1 @@
-# samuel-
+smart home automation using ai-ml
